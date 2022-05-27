@@ -1,11 +1,13 @@
-**REQUIREMENT**
+**Requirement**
 
 Get media list (contains image items and video items) from [Media list](https://raw.githubusercontent.com/wee-test/test2022/main/media-list) and display it on recycler view (with video type, only show thumbnail, no need play it), download each media and update on recycler adapter when it downloaded successfully, same image below:
 
-![screenshot](screenshot.gif)
+![screenshot](https://github.com/wee-test/test2022/blob/main/screenshot.gif)
+
 
 **What i hope !?:**
-Use kotlin instead of Java (because it's the first android native application development).
+
+Can use Java, but i hope you use kotlin instead of Java (because it's the first android native application development).
 
 A clean MVVM architecture.
 
@@ -14,12 +16,15 @@ Single source of trust.
 View model reactive none confliction.
 
 
+**Suggested ingredients to use**
+
 [Room](https://developer.android.com/jetpack/androidx/releases/room)
 
 Must use [View Binding](https://developer.android.com/topic/libraries/view-binding#kts) (no data binding, no findViewById, no kotlin synthetic...)
 
+...
 
-**CONTACT** 
+**Getting Help** 
 
 **VU QUOC HUY (Mr.)**
 
