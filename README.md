@@ -1,4 +1,5 @@
-**Requirement**
+Requirement
+=====
 
 Get media list (contains image items and video items) from [Media list](https://raw.githubusercontent.com/wee-test/test2022/main/media-list) and display it on recycler view (with video type, only show thumbnail, no need play it), download each media and update on recycler adapter when it downloaded successfully, same image below:
 
