@@ -5,8 +5,10 @@ Get media list (contains image items and video items) from [Media list](https://
 
 ![screenshot](https://github.com/wee-test/test2022/blob/main/screenshot.gif)
 
-
-**What i hope !?:**
+s
+What i hope !?:
+=====
+Apply knowledge about strong type OOP.
 
 Can use Java, but i hope you use kotlin instead of Java (because it's the first android native application development).
 
@@ -17,16 +19,16 @@ Single source of trust.
 View model reactive none confliction.
 
 
-**Suggested ingredients to use**
-
+Suggested ingredients to use
+=====
 [Room](https://developer.android.com/jetpack/androidx/releases/room)
 
 Must use [View Binding](https://developer.android.com/topic/libraries/view-binding#kts) (no data binding, no findViewById, no kotlin synthetic...)
 
 ...
 
-**Getting Help** 
-
+Getting Help
+=====
 **VU QUOC HUY (Mr.)**
 
 **Developer**
