@@ -1,37 +1,28 @@
 **REQUIREMENT**
 
-Get both of user list and image list from below urls:
-(can use anything: retrofit, kotlin coroutines, fuel, AFN, AsyncTask...)
+Get media list (contains image items and video items) from [Media list](https://raw.githubusercontent.com/wee-test/test2022/master/media-list) and display it on recycler view (with video type, only show thumbnail, no need play it), download each media and update on recycler adapter when it downloaded successfully, same image below:
 
-[Media list](https://raw.githubusercontent.com/wee-test/test2022/master/media-list)
-
-And display two data list into two RecyclerView like this
-(Image list: show image and description, User list: show photoDisplay and firstName concat lastName):
-
-![screenshot](screenshot.png)
+What i hope !?:
+Use kotlin instead of Java (because it's the first android native application development).
+A clean MVVM architecture.
+Single source of trust.
+View model reactive none confliction.
 
 
-
-**WARN:**
-
-Can use any application architecture or not
-
-Just create ONLY ONCE KOTLIN CLASS of Adapter (RecyclerAdapter/ListAdapter/PagedAdapter...)
-
-Must convert data list to collection data to strong type POJO/KDO (not use any data type key-value via Map, Dictionary...)
+<!-- ![screenshot](screenshot.png) -->
 
 
+[Room](https://developer.android.com/jetpack/androidx/releases/room)
+Must use this (no data binding, no findViewById, no kotlin synthetic...)
+[View Binding](https://developer.android.com/topic/libraries/view-binding#kts)
 
-**QUESTION** 
 
-**PHAM NGUYEN KHANG (Mr.)**
+**CONTACT** 
 
-**Senior engineer**
+**VU QUOC HUY (Mr.)**
+**Developer**
 
-![wee](wee_logo.png)
+<!-- ![wee](wee_logo.png) -->
 
 Add: No. B20 Bach Dang, Tan Binh District, Ho Chi Minh City, Vietnam
-
-Mobile: +84865971677
-
-Email:  khang@wee.vn |  Skype: live:khangkop98
+Email: huyquocvu.sg@gmail.vn |  Skype: +84935491290 | Zalo: +84935491290
