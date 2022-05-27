@@ -1,34 +1,30 @@
-{
-  "code":0,
-  "message":"successfully",
-  "data": [
-    {
-      "fileName": "image1.png",
-      "md5": "6b6d7a029d4a9abaf10a11285339bf2a",
-      "orderId": 1,
-      "type":"image/png",
-      "url": "https://raw.githubusercontent.com/wee-test/test2022/main/image1.png"
-    },
-    {
-      "fileName": "video1.mp4",
-      "md5": "d693045e3b0d1bda0297739e23a6b8bd",
-      "orderId": 2,
-      "type":"video/mp4",
-      "url": "https://raw.githubusercontent.com/wee-test/test2022/main/video1.mp4"
-    },
-    {
-      "fileName": "video2.mp4",
-      "md5": "995ab1934f95845821a1c3a6bfef53a8",
-      "orderId": 3,
-      "type":"video/mp4",
-      "url": "https://raw.githubusercontent.com/wee-test/test2022/main/video2.mp4"
-    },
-    {
-      "fileName": "video3.mp4",
-      "md5": "74063957fffa432662dca35268b84395",
-      "orderId": 4,
-      "type":"video/mp4",
-      "url": "https://raw.githubusercontent.com/wee-test/test2022/main/video3.mp4"
-    }
-  ]
-}
+[
+  {
+    "fileName": "image1.png",
+    "md5": "6b6d7a029d4a9abaf10a11285339bf2a",
+    "orderId": 1,
+    "type":"image/png",
+    "url": "https://raw.githubusercontent.com/wee-test/test2022/main/image1.png"
+  },
+  {
+    "fileName": "video1.mp4",
+    "md5": "d693045e3b0d1bda0297739e23a6b8bd",
+    "orderId": 2,
+    "type":"video/mp4",
+    "url": "https://raw.githubusercontent.com/wee-test/test2022/main/video1.mp4"
+  },
+  {
+    "fileName": "video2.mp4",
+    "md5": "995ab1934f95845821a1c3a6bfef53a8",
+    "orderId": 3,
+    "type":"video/mp4",
+    "url": "https://raw.githubusercontent.com/wee-test/test2022/main/video2.mp4"
+  },
+  {
+    "fileName": "video3.mp4",
+    "md5": "74063957fffa432662dca35268b84395",
+    "orderId": 4,
+    "type":"video/mp4",
+    "url": "https://raw.githubusercontent.com/wee-test/test2022/main/video3.mp4"
+  }
+]
