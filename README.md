@@ -5,7 +5,7 @@ Get media list (contains image items and video items) from [Media list](https://
 
 ![screenshot](https://github.com/wee-test/test2022/blob/main/screenshot.gif)
 
-s
+
 What i hope !?:
 =====
 Apply knowledge about strong type OOP.
